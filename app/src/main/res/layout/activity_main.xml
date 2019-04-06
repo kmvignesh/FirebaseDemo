@@ -44,6 +44,15 @@
                 android:textColor="@android:color/white"
                 android:textAllCaps="false"
         />
+
+        <Button
+                android:id="@+id/btn_forgot_password"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:text="Forgot Password?"
+                android:layout_gravity="end"
+                android:textAllCaps="false"/>
     </LinearLayout>
 
     <Button
